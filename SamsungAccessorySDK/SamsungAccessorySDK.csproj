@@ -54,7 +54,7 @@
     <TransformFile Include="Transforms\EnumMethods.xml" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedJar Include="Jars\accessory-v2.6.1.jar" />
+    <EmbeddedJar Include="Jars\accessory-v2.6.4.jar" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedJar Include="Jars\sdk-v1.0.0.jar" />
